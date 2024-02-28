@@ -1,2 +1,4 @@
 # JavaScript_course
-All javaScript practice exercise
+All javascript practice exercise
+<br> 
+All javascript work will we share in this repo
