@@ -7,9 +7,9 @@ let score="300n"
 console.log(typeof score); //
 console.log(typeof (score)); // written as method
 
-// conversion of string into number
-let valueinNumber=Number(score)
-console.log(typeof valueinNumber);
+// conversion of any datatype  into number to see what happens in output
+let valueinNumber=Number(score)  // convert string into number
+console.log(typeof valueinNumber); // o/p:-number
 console.log(valueinNumber);
 
 
